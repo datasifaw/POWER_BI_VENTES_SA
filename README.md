@@ -6,7 +6,7 @@
 
 ---
 
-## 🌟 Présentation du projet :
+## 🌟 Présentation du projet
 
 **BI_VENTES_SA** est un projet complet de Business Intelligence consacré à l'analyse des performances commerciales d'une entreprise.
 
