@@ -8,7 +8,7 @@
 
 ## 🌟 Présentation du projet
 
-**BI_VENTES_SA** est un projet complet de Business Intelligence consacré à l'analyse des performances commerciales d'une entreprise.
+**BI_VENTES_SA** est un projet complet de Business Intelligence consacré à l'analyse des performances commerciales d'une entreprise
 
 Il repose sur une base de données relationnelle **SQL Server** et un tableau de bord interactif développé avec **Microsoft Power BI**.
 
