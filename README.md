@@ -1,6 +1,6 @@
 # 📊 BI_VENTES_SA |  Sales Analytics Dashboard 
 
-### 🚀 End-to-End Business Intelligence Project
+### 🚀 End-to-End Business Intelligence Project :
 
 **SQL Server • Power Query • Data Modeling • DAX • Power BI • GitHub **
 
