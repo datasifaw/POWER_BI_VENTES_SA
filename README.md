@@ -14,7 +14,6 @@ L'objectif est de transformer les données transactionnelles en indicateurs déc
 
 Le dashboard couvre sept domaines d'analyse : ventes, clients, produits, employés, expéditions, transporteurs et géographie.
 
-
 ### 🎯 Objectifs métier
 
 - Suivre le chiffre d'affaires brut et net.
