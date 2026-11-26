@@ -2,7 +2,7 @@
 
 ### 🚀 End-to-End Business Intelligence Project :
 
-**SQL Server • Power Query • Data Modeling • DAX • Power BI • GitHub **
+**SQL Server ==> Power Query  ==> Data Modeling ==> DAX  ==> Power BI  ==>GitHub **
 
 ## 🌟 Présentation du projet 
 
