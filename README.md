@@ -1,4 +1,4 @@
-# 📊 BI |  Sales Analytics Dashboard  
+# 📊 BI |  Sales Analytics Dashboard 
 
 ### 🚀 End-to-End Business Intelligence Project :
 
